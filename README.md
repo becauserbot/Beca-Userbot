@@ -1,4 +1,4 @@
-<h1 align="center"> ⚡ 𝙺𝙰𝚉𝚄-𝚄𝚂𝙴𝚁𝙱𝙾𝚃</h1>
+<h1 align="center"> ⚡ ʙᴇᴄᴀ ᴜsᴇʀʙᴏᴛ</h1>
 
 <a href="https://github.com/ionmusic/Kazu-Userbot/commits"> <img src="https://img.shields.io/github/last-commit/sip-Userbot/Nande-Telethon?color=red&logo=github&logoColor=blue&style=for-the-badge" /></a>
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ionmusic/Kazu-Userbot)
@@ -12,7 +12,7 @@
   <img src="https://telegra.ph/file/a38745137e65f2d74de06.jpg">
 </p>
 
-👩‍💻 𝙺𝙰𝚉𝚄-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+👩‍💻 ʙᴇᴄᴀ ᴜsᴇʀʙᴏᴛ adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
