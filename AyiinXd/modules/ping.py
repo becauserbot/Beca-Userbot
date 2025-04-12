@@ -61,7 +61,7 @@ async def _(ping):
     await Ayiin.edit("🥵")
     sleep(3)
     await Ayiin.edit(
-        f"**㋡ 𝙺𝙰𝚉𝚄-𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ㋡**\n\n"
+        f"**㋡ ʙᴇᴄᴀ ᴜsᴇʀʙᴏᴛ ㋡**\n\n"
         f"㋡ **𝙿𝙸𝙽𝙶𝙴𝚁 :** `%sms`\n"
         f"㋡ **𝚄𝙿𝚃𝙸𝙼𝙴 :** `{uptime}` \n"
         f"㋡ **𝙾𝚆𝙽𝙴𝚁 :** [{user.first_name}](tg://user?id={user.id})" % (duration)
@@ -123,7 +123,7 @@ async def _(pong):
 # .keping & kping Coded by Koala
 
 
-@ayiin_cmd(pattern=r"kazu$")
+@ayiin_cmd(pattern=r"beca$")
 async def _(pong):
     uptime = await get_readable_time((time.time() - StartTime))
     start = datetime.now()
@@ -145,8 +145,8 @@ async def _(pong):
     await kping.edit("8===✊D")
     await kping.edit("8===✊D💦")
     await kping.edit("8====D💦💦")
-    await kping.edit("**KAZUUUUU**")
-    await kping.edit("**DISINI KAZU YAGESYA.....**")
+    await kping.edit("**BECAAAA**")
+    await kping.edit("**DISINI BECA YAGESYA.....**")
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await kping.edit("🥵")
