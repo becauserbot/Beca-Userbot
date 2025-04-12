@@ -1,11 +1,11 @@
 FROM python:3.9
-RUN git clone -b Kazu-Userbot https://github.com/ionmusic/Kazu-Userbot /home/Kazuuserbot/ \
-    && chmod 777 /home/Kazuuserbot \
-    && mkdir /home/Kazuuserbot/bin/
+RUN git clone -b Beca-Userbot https://github.com/becaubot/Beca-Userbot /home/Becauserbot/ \
+    && chmod 777 /home/Becauserbot \
+    && mkdir /home/Becauserbot/bin/
 
-COPY ./sample_config.env ./config.env* /home/Kazuuserbot/
+COPY ./sample_config.env ./config.env* /home/Becauserbot/
 
-WORKDIR /home/Kazuuserbot/
+WORKDIR /home/Becauserbot/
 
 RUN pip install --upgrade pip
 RUN pip install --upgrade pip setuptools wheel
