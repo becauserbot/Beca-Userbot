@@ -36,18 +36,18 @@ absen = [
     "**Hadir Tuan** 🙏🏻",
     "**Hadir Majikan** 🙏🏻",
     "**Hadir Sayang** 😳",
-    "**Hadir Bro Kazu** 😁",
+    "**Hadir Bro Beca** 😁",
     "**Maaf ka habis nemenin ka Kazu** 🥺",
     "**Maaf ka habis disuruh Tuan Kazu** 🥺🙏🏻",
-    "**Hadir Kazu Sayang** 😘",
-    "**Hadir Kazu Akuuuuhhh** ☺️",
-    "**Hadir Kazu brother Aku** 🥰",
+    "**Hadir Beca Sayang** 😘",
+    "**Hadir Beca Akuuuuhhh** ☺️",
+    "**Hadir Beca brother Aku** 🥰",
 ]
 
 kazucakep = [
-    "**𝙄𝙮𝙖 Kazu 𝙂𝙖𝙣𝙩𝙚𝙣𝙜 𝘽𝙖𝙣𝙜𝙚𝙩** 😍",
+    "**𝙄𝙮𝙖 Beca Cantik 𝘽𝙖𝙣𝙜𝙚𝙩** 😍",
     "**𝙂𝙖𝙣𝙩𝙚𝙣𝙜𝙣𝙮𝙖 𝙂𝙖𝙠 𝘼𝙙𝙖 𝙇𝙖𝙬𝙖𝙣** 😚",
-    "**𝙆𝙖𝙢𝙪 𝙂𝙖𝙣𝙩𝙚𝙣𝙜𝙣𝙮𝙖 𝘼𝙠𝙪 𝙆𝙖𝙣 Zu** 😍",
+    "**𝙆𝙖𝙢𝙪 Cantiknya 𝘼𝙠𝙪 𝙆𝙖𝙣 Beca** 😍",
     "**𝙄𝙮𝙖𝙖 𝙜𝙖𝙙𝙖 𝙖𝙙𝙖 𝙨𝙖𝙞𝙣𝙜** 😎",
     "**𝙆𝙖𝙢𝙪 𝙅𝙖𝙢𝙚𝙩 𝙏𝙖𝙥𝙞 𝘽𝙤𝙤𝙣𝙜** 😚",
 ]
