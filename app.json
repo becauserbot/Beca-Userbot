@@ -3,7 +3,7 @@
   "description": "[Beca-Userbot] Selamat pakai, Luh songong gw Banting",
   "logo": "https://telegra.ph/file/05c7982e106962b905ef4.jpg",
   "keywords": ["telegram", "userbot", "Beca-Userbot", "modular", "python"],
-  "repository": "https://github.com/becaubot/Beca-Userbot",
+  "repository": "https://github.com/becauserbot/Beca-Userbot",
   "stack": "container",
   "env": {
     "API_KEY": {
