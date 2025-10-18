@@ -1,5 +1,5 @@
-FROM python:3.9
-RUN git clone -b Beca-Userbot https://github.com/becaubot/Beca-Userbot /home/Becauserbot/ \
+FROM python:3.10
+RUN git clone -b Beca-Userbot https://github.com/becauserbot/Beca-Userbot /home/Becauserbot/ \
     && chmod 777 /home/Becauserbot \
     && mkdir /home/Becauserbot/bin/
 
